@@ -1,4 +1,4 @@
-import classes from './app.module.css';
+import classes from './App.module.css';
 import LandingPage from './pages/landingPage';
 
 const App = () => (
