@@ -1,0 +1,11 @@
+.root_container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 2vh 3vw;
+  justify-content: space-between;
+}
+
+.page_number {
+  padding: 0px 10px;
+}

@@ -1,0 +1,15 @@
+.root_container {
+  margin: 10px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 5px 0px black;
+  border: solid 1px grey;
+  border-radius: 5px;
+  height: 200px;
+  width: 250px;
+  cursor: pointer;
+}
+
+.root_container:hover {
+  box-shadow: 0px 0px 10px 0px#039BE5;
+  border: solid 1px#039BE5;
+}
