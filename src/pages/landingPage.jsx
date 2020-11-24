@@ -18,9 +18,6 @@ const LandingPage = () => {
       .post(
         "https://app.filespin.io/api/v1/search",
         {
-          page: 2,
-        },
-        {
           headers: {
             "X-FileSpin-Api-Key": process.env.REACT_APP_FILESPIN_API_KEY,
           },

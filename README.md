@@ -2,7 +2,7 @@
 
 ## Description
 
-File-Spin Gallery is basic music UI/UX demo App.
+File-Spin Gallery is basic UI/UX demo App.
 
 ## Deployed Site
 
